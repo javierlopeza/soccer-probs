@@ -1,0 +1,90 @@
+8 de octubre de 2020	Asunción	Paraguay	Bandera de Paraguay	2:2 (0:0)	Bandera de Perú	Perú
+8 de octubre de 2020	Montevideo	Uruguay	Bandera de Uruguay	2:1 (1:0)	Bandera de Chile	Chile
+8 de octubre de 2020	Buenos Aires	Argentina	Bandera de Argentina	1:0 (1:0)	Bandera de Ecuador	Ecuador
+9 de octubre de 2020	Barranquilla	Colombia	Bandera de Colombia	3:0 (3:0)	Bandera de Venezuela	Venezuela
+9 de octubre de 2020	São Paulo	Brasil	Bandera de Brasil	5:0 (2:0)	Bandera de Bolivia	Bolivia
+13 de octubre de 2020	La Paz	Bolivia	Bandera de Bolivia	1:2 (1:1)	Bandera de Argentina	Argentina
+13 de octubre de 2020	Quito	Ecuador	Bandera de Ecuador	4:2 (2:0)	Bandera de Uruguay	Uruguay
+13 de octubre de 2020	Mérida	Venezuela	Bandera de Venezuela	0:1 (0:0)	Bandera de Paraguay	Paraguay
+13 de octubre de 2020	Lima	Perú	Bandera de Perú	2:4 (1:1)	Bandera de Brasil	Brasil
+13 de octubre de 2020	Santiago	Chile	Bandera de Chile	2:2 (2:1)	Bandera de Colombia	Colombia
+12 de noviembre de 2020	La Paz	Bolivia	Bandera de Bolivia	2:3 (1:0)	Bandera de Ecuador	Ecuador
+12 de noviembre de 2020	Buenos Aires	Argentina	Bandera de Argentina	1:1 (1:1)	Bandera de Paraguay	Paraguay
+13 de noviembre de 2020	Barranquilla	Colombia	Bandera de Colombia	0:3 (0:1)	Bandera de Uruguay	Uruguay
+13 de noviembre de 2020	Santiago	Chile	Bandera de Chile	2:0 (2:0)	Bandera de Perú	Perú
+13 de noviembre de 2020	São Paulo	Brasil	Bandera de Brasil	1:0 (0:0)	Bandera de Venezuela	Venezuela
+17 de noviembre de 2020	Quito	Ecuador	Bandera de Ecuador	6:1 (4:1)	Bandera de Colombia	Colombia
+17 de noviembre de 2020	Caracas	Venezuela	Bandera de Venezuela	2:1 (1:1)	Bandera de Chile	Chile
+17 de noviembre de 2020	Asunción	Paraguay	Bandera de Paraguay	2:2 (1:2)	Bandera de Bolivia	Bolivia
+17 de noviembre de 2020	Montevideo	Uruguay	Bandera de Uruguay	0:2 (0:2)	Bandera de Brasil	Brasil
+17 de noviembre de 2020	Lima	Perú	Bandera de Perú	0:2 (0:2)	Bandera de Argentina	Argentina
+10 de octubre de 2021	La Paz	Bolivia	Bandera de Bolivia	:	Bandera de Perú	Perú
+10 de octubre de 2021	Caracas	Venezuela	Bandera de Venezuela	:	Bandera de Ecuador	Ecuador
+10 de octubre de 2021	Santiago	Chile	Bandera de Chile	:	Bandera de Paraguay	Paraguay
+10 de octubre de 2021	Barranquilla	Colombia	Bandera de Colombia	:	Bandera de Brasil	Brasil
+10 de octubre de 2021	Buenos Aires	Argentina	Bandera de Argentina	:	Bandera de Uruguay	Uruguay
+5 de septiembre de 2021	São Paulo	Brasil	Bandera de Brasil	:	Bandera de Argentina	Argentina
+5 de septiembre de 2021	Quito	Ecuador	Bandera de Ecuador	0:0	Bandera de Chile	Chile
+5 de septiembre de 2021	Asunción	Paraguay	Bandera de Paraguay	1:1 (1:0)	Bandera de Colombia	Colombia
+5 de septiembre de 2021	Montevideo	Uruguay	Bandera de Uruguay	4:2 (2:0)	Bandera de Bolivia	Bolivia
+5 de septiembre de 2021	Lima	Perú	Bandera de Perú	1:0 (1:0)	Bandera de Venezuela	Venezuela
+3 de junio de 2021	La Paz	Bolivia	Bandera de Bolivia	3:1 (1:1)	Bandera de Venezuela	Venezuela
+3 de junio de 2021	Montevideo	Uruguay	Bandera de Uruguay	0:0	Bandera de Paraguay	Paraguay
+3 de junio de 2021	Santiago del Estero	Argentina	Bandera de Argentina	1:1 (1:1)	Bandera de Chile	Chile
+3 de junio de 2021	Lima	Perú	Bandera de Perú	0:3 (0:1)	Bandera de Colombia	Colombia
+4 de junio de 2021	Porto Alegre	Brasil	Bandera de Brasil	2:0 (0:0)	Bandera de Ecuador	Ecuador
+8 de junio de 2021	Quito	Ecuador	Bandera de Ecuador	1:2 (0:0)	Bandera de Perú	Perú
+8 de junio de 2021	Caracas	Venezuela	Bandera de Venezuela	0:0	Bandera de Uruguay	Uruguay
+8 de junio de 2021	Barranquilla	Colombia	Bandera de Colombia	2:2 (0:2)	Bandera de Argentina	Argentina
+8 de junio de 2021	Asunción	Paraguay	Bandera de Paraguay	0:2 (0:1)	Bandera de Brasil	Brasil
+8 de junio de 2021	Santiago	Chile	Bandera de Chile	1:1 (0:0)	Bandera de Bolivia	Bolivia
+2 de septiembre de 2021	La Paz	Bolivia	Bandera de Bolivia	1:1 (0:0)	Bandera de Colombia	Colombia
+2 de septiembre de 2021	Quito	Ecuador	Bandera de Ecuador	2:0 (0:0)	Bandera de Paraguay	Paraguay
+2 de septiembre de 2021	Caracas	Venezuela	Bandera de Venezuela	1:3 (0:1)	Bandera de Argentina	Argentina
+2 de septiembre de 2021	Santiago	Chile	Bandera de Chile	0:1 (0:0)	Bandera de Brasil	Brasil
+2 de septiembre de 2021	Lima	Perú	Bandera de Perú	1:1 (1:1)	Bandera de Uruguay	Uruguay
+9 de septiembre de 2021	Montevideo	Uruguay	Bandera de Uruguay	:	Bandera de Ecuador	Ecuador
+9 de septiembre de 2021	Asunción	Paraguay	Bandera de Paraguay	:	Bandera de Venezuela	Venezuela
+9 de septiembre de 2021	Barranquilla	Colombia	Bandera de Colombia	:	Bandera de Chile	Chile
+9 de septiembre de 2021	Buenos Aires	Argentina	Bandera de Argentina	:	Bandera de Bolivia	Bolivia
+9 de septiembre de 2021	Recife	Brasil	Bandera de Brasil	:	Bandera de Perú	Perú
+7 de octubre de 2021	Montevideo	Uruguay	Bandera de Uruguay	:	Bandera de Colombia	Colombia
+7 de octubre de 2021	Lima	Perú	Bandera de Perú	:	Bandera de Chile	Chile
+7 de octubre de 2021	Por definir	Venezuela	Bandera de Venezuela	:	Bandera de Brasil	Brasil
+7 de octubre de 2021	Asunción	Paraguay	Bandera de Paraguay	:	Bandera de Argentina	Argentina
+7 de octubre de 2021	Quito	Ecuador	Bandera de Ecuador	:	Bandera de Bolivia	Bolivia
+14 de octubre de 2021	Barranquilla	Colombia	Bandera de Colombia	:	Bandera de Ecuador	Ecuador
+14 de octubre de 2021	Río de Janeiro	Brasil	Bandera de Brasil	:	Bandera de Uruguay	Uruguay
+14 de octubre de 2021	La Paz	Bolivia	Bandera de Bolivia	:	Bandera de Paraguay	Paraguay
+14 de octubre de 2021	Por definir	Argentina	Bandera de Argentina	:	Bandera de Perú	Perú
+14 de octubre de 2021	Santiago	Chile	Bandera de Chile	:	Bandera de Venezuela	Venezuela
+11 de noviembre de 2021	Montevideo	Uruguay	Bandera de Uruguay	:	Bandera de Argentina	Argentina
+11 de noviembre de 2021	Lima	Perú	Bandera de Perú	:	Bandera de Bolivia	Bolivia
+11 de noviembre de 2021	São Paulo	Brasil	Bandera de Brasil	:	Bandera de Colombia	Colombia
+11 de noviembre de 2021	Asunción	Paraguay	Bandera de Paraguay	:	Bandera de Chile	Chile
+11 de noviembre de 2021	Quito	Ecuador	Bandera de Ecuador	:	Bandera de Venezuela	Venezuela
+16 de noviembre de 2021	Barranquilla	Colombia	Bandera de Colombia	:	Bandera de Paraguay	Paraguay
+16 de noviembre de 2021	Por definir	Venezuela	Bandera de Venezuela	:	Bandera de Perú	Perú
+16 de noviembre de 2021	La Paz	Bolivia	Bandera de Bolivia	:	Bandera de Uruguay	Uruguay
+16 de noviembre de 2021	Por definir	Argentina	Bandera de Argentina	:	Bandera de Brasil	Brasil
+16 de noviembre de 2021	Santiago	Chile	Bandera de Chile	:	Bandera de Ecuador	Ecuador
+27 de enero de 2022	Barranquilla	Colombia	Bandera de Colombia	:	Bandera de Perú	Perú
+27 de enero de 2022	Por definir	Venezuela	Bandera de Venezuela	:	Bandera de Bolivia	Bolivia
+27 de enero de 2022	Asunción	Paraguay	Bandera de Paraguay	:	Bandera de Uruguay	Uruguay
+27 de enero de 2022	Santiago	Chile	Bandera de Chile	:	Bandera de Argentina	Argentina
+27 de enero de 2022	Quito	Ecuador	Bandera de Ecuador	:	Bandera de Brasil	Brasil
+1 de febrero de 2022	Montevideo	Uruguay	Bandera de Uruguay	:	Bandera de Venezuela	Venezuela
+1 de febrero de 2022	Lima	Perú	Bandera de Perú	:	Bandera de Ecuador	Ecuador
+1 de febrero de 2022	Manaus	Brasil	Bandera de Brasil	:	Bandera de Paraguay	Paraguay
+1 de febrero de 2022	La Paz	Bolivia	Bandera de Bolivia	:	Bandera de Chile	Chile
+1 de febrero de 2022	Por definir	Argentina	Bandera de Argentina	:	Bandera de Colombia	Colombia
+24 de marzo de 2022	Montevideo	Uruguay	Bandera de Uruguay	:	Bandera de Perú	Perú
+24 de marzo de 2022	Barranquilla	Colombia	Bandera de Colombia	:	Bandera de Bolivia	Bolivia
+24 de marzo de 2022	Belo Horizonte	Brasil	Bandera de Brasil	:	Bandera de Chile	Chile
+24 de marzo de 2022	Asunción	Paraguay	Bandera de Paraguay	:	Bandera de Ecuador	Ecuador
+24 de marzo de 2022	Por definir	Argentina	Bandera de Argentina	:	Bandera de Venezuela	Venezuela
+29 de marzo de 2022	Lima	Perú	Bandera de Perú	:	Bandera de Paraguay	Paraguay
+29 de marzo de 2022	Por definir	Venezuela	Bandera de Venezuela	:	Bandera de Colombia	Colombia
+29 de marzo de 2022	La Paz	Bolivia	Bandera de Bolivia	:	Bandera de Brasil	Brasil
+29 de marzo de 2022	Santiago	Chile	Bandera de Chile	:	Bandera de Uruguay	Uruguay
+29 de marzo de 2022	Quito	Ecuador	Bandera de Ecuador	:	Bandera de Argentina	Argentina
