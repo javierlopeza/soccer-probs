@@ -1,7 +1,7 @@
 import pandas as pd
 from soccer_utils import * 
 
-N_SIM = 10000
+N_SIM = 1000
 TOURNAMENT = "Chile" # Eliminatorias | Chile
 
 # -------------------
@@ -18,15 +18,21 @@ TOURNAMENT = "Chile" # Eliminatorias | Chile
 # BARS COLORS THRESHOLDS
 # ----------------------
 
-# Eliminatorias Qatar 2022 
-BARS_COLORS_THRESHOLDS = [
-    {"max_threshold": 10, "color": "silver", "label": "Not qualified"},
-    {"max_threshold": 5, "color": "royalblue", "label": "Inter-confederation play-offs"},
-    {"max_threshold": 4, "color": "limegreen", "label": "Qualified"},
-]
-
-# Campeonato Chileno
-# TODO
+if TOURNAMENT == "Eliminatorias":
+    BARS_COLORS_THRESHOLDS = [
+        {"max_threshold": 10, "color": "silver", "label": "Not qualified"},
+        {"max_threshold": 5, "color": "dodgerblue", "label": "Inter-confederation play-offs"},
+        {"max_threshold": 4, "color": "limegreen", "label": "Qualified"},
+    ]
+if TOURNAMENT == "Chile":
+    BARS_COLORS_THRESHOLDS = [
+        {"max_threshold": 16, "color": "indianred", "label": "Descenso directo"},
+        {"max_threshold": 15, "color": "lightcoral", "label": "Partido por el descenso"},
+        {"max_threshold": 14, "color": "silver", "label": ""},
+        {"max_threshold": 7, "color": "dodgerblue", "label": "Sudamericana"},
+        {"max_threshold": 3, "color": "forestgreen", "label": "Libertadores (Segunda Fase)"},
+        {"max_threshold": 2, "color": "limegreen", "label": "Libertadores (Fase Grupos)"},
+    ]
 
 # ----------------------
 

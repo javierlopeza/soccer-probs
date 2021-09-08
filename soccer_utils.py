@@ -234,8 +234,8 @@ def save_team_probs_plot(tournament, team, df_posicion, N_sim, N_teams, bars_col
 
     bars_colors_thresholds = bars_colors_thresholds[::-1]
     plt.legend(
-        [Line2D([0], [0], color = threshold["color"], lw = 4) for threshold in bars_colors_thresholds], 
-        [threshold["label"] for threshold in bars_colors_thresholds], 
+        [Line2D([0], [0], color = threshold["color"], lw = 4) for threshold in bars_colors_thresholds if threshold["label"] != ""], 
+        [threshold["label"] for threshold in bars_colors_thresholds if threshold["label"] != ""], 
         fontsize = 16,
     )
 
