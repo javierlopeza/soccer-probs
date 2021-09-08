@@ -239,8 +239,8 @@ def save_team_probs_plot(tournament, team, df_posicion, N_sim, N_teams, bars_col
         fontsize = 16,
     )
 
-    plt.xlabel(LABEL_POSITION, fontsize = 16)
-    plt.ylabel("Odds of ending in position", fontsize = 16)
+    plt.xlabel("Posición", fontsize = 16)
+    plt.ylabel("Probabilidad de terminar en posición", fontsize = 16)
 
     plt.xticks(np.arange(0, N_teams + 1), fontsize = 16)
     plt.yticks(fontsize = 16)
