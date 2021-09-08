@@ -26,8 +26,43 @@ LABEL_GOALS = "Goals"
 LABEL_IS_HOME_TEAM = "IsHomeTeam"
 LABEL_MATCH_ID = "MatchID"
 
-def parse_raw_matches():
-    with open("raw_matches.txt", "r") as f:
+def parse_raw_matches_campeonato_chileno():
+    with open("raw_matches_campeonato_chileno.txt", "r") as f:
+        lines = [x.strip() for x in f.readlines()]
+    csv_lines = []
+    home_team, away_team, goals_home, goals_away = "", "", "", ""
+    for line in lines:
+        if line.startswith("Jornada") or ":" in line:
+            continue
+        if line.startswith("Escudo/Bandera"):
+            # Escudo/Bandera U. Española U. Española
+            line = line.replace("Escudo/Bandera ", "")
+            away_team = line[:len(line) // 2]
+            csv_lines.append({
+                LABEL_HOME: home_team,
+                LABEL_AWAY: away_team,
+                LABEL_GOALS_HOME: goals_home,
+                LABEL_GOALS_AWAY: goals_away,
+                LABEL_PLAYED: goals_home != "" and goals_away != ""
+            })
+            home_team, away_team, goals_home, goals_away = "", "", "", ""
+        elif "Escudo/Bandera" in line:
+            # Ñublense Escudo/Bandera Ñublense
+            line = line.replace("Escudo/Bandera ", "")
+            home_team = line[:len(line) // 2]
+        elif "-" in line:
+            # "-" or "3 - 1"
+            goals_home, goals_away = [n.strip() for n in line.split("-")]
+    
+    with open('matches.csv', 'w', newline='') as csvfile:
+        fieldnames = list(csv_lines[0].keys())
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer.writeheader()
+        for line in csv_lines:
+            writer.writerow(line)
+
+def parse_raw_matches_eliminatorias_qatar_2022():
+    with open("raw_matches_qatar_2022.txt", "r") as f:
         lines = [x.strip() for x in f.readlines()]
         lines = [l.split("\t") for l in lines]
     csv_lines = []
@@ -172,7 +207,7 @@ def summary_positions(sim_poisson_home, sim_poisson_away, N_SIM, teams, df_table
     df_posicion = pd.DataFrame(team_stats, columns = [LABEL_TEAM, "Tabla", "n_sim", LABEL_POSITION])
     return df_posicion
 
-def save_team_probs_plot(team, df_posicion, N_sim, N_teams, bars_colors_thresholds):
+def save_team_probs_plot(tournament, team, df_posicion, N_sim, N_teams, bars_colors_thresholds):
     plt.clf()
 
     p_pos_abs = df_posicion[(df_posicion.Tabla == "Absoluta") &
@@ -213,6 +248,6 @@ def save_team_probs_plot(team, df_posicion, N_sim, N_teams, bars_colors_threshol
     plt.xlim(0.01, N_teams + 1)
     plt.ylim(0, max(p_pos_abs) * 1.1)
 
-    plt.savefig('./plots/{}.png'.format(team), bbox_inches='tight')
+    plt.savefig('./plots/{}/{}.png'.format(tournament, team), bbox_inches='tight')
 
     plt.clf()
