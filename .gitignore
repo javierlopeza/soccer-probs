@@ -142,5 +142,4 @@ cython_debug/
 # Probs
 *sim_*.csv
 *df_*.csv
-plots
 table_to_date.csv
