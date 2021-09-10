@@ -20,9 +20,9 @@ TOURNAMENT = "Chile" # Eliminatorias | Chile
 
 if TOURNAMENT == "Eliminatorias":
     BARS_COLORS_THRESHOLDS = [
-        {"max_threshold": 10, "color": "silver", "label": "Not qualified"},
-        {"max_threshold": 5, "color": "dodgerblue", "label": "Inter-confederation play-offs"},
-        {"max_threshold": 4, "color": "limegreen", "label": "Qualified"},
+        {"max_threshold": 10, "color": "silver", "label": "Eliminado"},
+        {"max_threshold": 5, "color": "dodgerblue", "label": "Repechaje"},
+        {"max_threshold": 4, "color": "limegreen", "label": "Clasificado"},
     ]
 if TOURNAMENT == "Chile":
     BARS_COLORS_THRESHOLDS = [
