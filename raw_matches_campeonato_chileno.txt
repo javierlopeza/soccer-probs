@@ -446,7 +446,7 @@ O´Higgins Escudo/Bandera O´Higgins
 1 - 0
 Escudo/Bandera Everton Viña Everton Viña
 Cobresal Escudo/Bandera Cobresal	
-V 11:00
+1 - 1
 Escudo/Bandera Huachipato Huachipato
 Jornada 19 28 - 30 Ago.
 Palestino Escudo/Bandera Palestino	
@@ -509,44 +509,44 @@ Curicó Unido Escudo/Bandera Curicó Unido
 2 - 4
 Escudo/Bandera U. Católica U. Católica
 Ñublense Escudo/Bandera Ñublense	
-L 16:30
+2 - 2
 Escudo/Bandera Huachipato Huachipato
 U. Española Escudo/Bandera U. Española	
-L 19:00
+2 - 3
 Escudo/Bandera U. de Chile U. de Chile
 Deportes La Serena Escudo/Bandera Deportes La Serena	
-M 14:00
+2 - 0
 Escudo/Bandera O´Higgins O´Higgins
 Colo Colo Escudo/Bandera Colo Colo	
-M 19:00
+2 - 0
 Escudo/Bandera Everton Viña Everton Viña
 Palestino Escudo/Bandera Palestino	
-X 16:00
+3 - 1
 Escudo/Bandera Melipilla Melipilla
 Jornada 22 24 - 26 Sept.
 Huachipato Escudo/Bandera Huachipato	
-V 18:30
+1 - 1
 Escudo/Bandera Palestino Palestino
 U. La Calera Escudo/Bandera U. La Calera	
-V 21:00
+2 - 0
 Escudo/Bandera O´Higgins O´Higgins
 Cobresal Escudo/Bandera Cobresal	
-S 12:00
+2 - 0
 Escudo/Bandera Antofagasta Antofagasta
 U. Española Escudo/Bandera U. Española	
-S 15:00
+2 - 1
 Escudo/Bandera Deportes La Serena Deportes La Serena
 Melipilla Escudo/Bandera Melipilla	
-S 17:30
+1 - 1
 Escudo/Bandera A. Italiano A. Italiano
 Everton Viña Escudo/Bandera Everton Viña	
-S 20:00
+0 - 0
 Escudo/Bandera Curicó Unido Curicó Unido
 Ñublense Escudo/Bandera Ñublense	
-D 12:00
+1 - 2
 Escudo/Bandera Wanderers Wanderers
 U. de Chile Escudo/Bandera U. de Chile	
-D 16:30
+1 - 3
 Escudo/Bandera Colo Colo Colo Colo
 Jornada 23 28 - 30 Sept.
 Deportes La Serena Escudo/Bandera Deportes La Serena	
@@ -573,278 +573,278 @@ Escudo/Bandera Ñublense Ñublense
 A. Italiano Escudo/Bandera A. Italiano	
 J 21:00
 Escudo/Bandera U. Española U. Española
-Jornada 24 03 Oct.
-Cobresal Escudo/Bandera Cobresal	
--
-Escudo/Bandera A. Italiano A. Italiano
-Huachipato Escudo/Bandera Huachipato	
--
-Escudo/Bandera Curicó Unido Curicó Unido
-Melipilla Escudo/Bandera Melipilla	
--
-Escudo/Bandera Wanderers Wanderers
+Jornada 24 02 - 05 Oct.
+U. La Calera Escudo/Bandera U. La Calera	
+S 20:30
+Escudo/Bandera U. Católica U. Católica
 Palestino Escudo/Bandera Palestino	
--
+D 15:30
 Escudo/Bandera Colo Colo Colo Colo
 U. de Chile Escudo/Bandera U. de Chile	
--
+D 18:00
 Escudo/Bandera Antofagasta Antofagasta
 U. Española Escudo/Bandera U. Española	
--
+D 20:30
 Escudo/Bandera O´Higgins O´Higgins
-U. La Calera Escudo/Bandera U. La Calera	
--
-Escudo/Bandera U. Católica U. Católica
-Ñublense Escudo/Bandera Ñublense	
--
-Escudo/Bandera Deportes La Serena Deportes La Serena
-Jornada 25 10 Oct.
-Antofagasta Escudo/Bandera Antofagasta	
--
-Escudo/Bandera Melipilla Melipilla
-A. Italiano Escudo/Bandera A. Italiano	
--
-Escudo/Bandera Palestino Palestino
-Colo Colo Escudo/Bandera Colo Colo	
--
-Escudo/Bandera Huachipato Huachipato
-Curicó Unido Escudo/Bandera Curicó Unido	
--
-Escudo/Bandera Ñublense Ñublense
-Everton Viña Escudo/Bandera Everton Viña	
--
-Escudo/Bandera U. de Chile U. de Chile
-Deportes La Serena Escudo/Bandera Deportes La Serena	
--
-Escudo/Bandera Cobresal Cobresal
-O´Higgins Escudo/Bandera O´Higgins	
--
-Escudo/Bandera Wanderers Wanderers
-U. Católica Escudo/Bandera U. Católica	
--
-Escudo/Bandera U. Española U. Española
-Jornada 26 17 Oct.
 Cobresal Escudo/Bandera Cobresal	
--
-Escudo/Bandera U. Católica U. Católica
-Huachipato Escudo/Bandera Huachipato	
--
-Escudo/Bandera Antofagasta Antofagasta
-Melipilla Escudo/Bandera Melipilla	
--
-Escudo/Bandera Deportes La Serena Deportes La Serena
-Palestino Escudo/Bandera Palestino	
--
-Escudo/Bandera O´Higgins O´Higgins
-Wanderers Escudo/Bandera Wanderers	
--
-Escudo/Bandera Everton Viña Everton Viña
-U. de Chile Escudo/Bandera U. de Chile	
--
+L 11:00
 Escudo/Bandera A. Italiano A. Italiano
-U. Española Escudo/Bandera U. Española	
--
+Melipilla Escudo/Bandera Melipilla	
+L 18:30
+Escudo/Bandera Wanderers Wanderers
+Huachipato Escudo/Bandera Huachipato	
+L 21:00
 Escudo/Bandera Curicó Unido Curicó Unido
 Ñublense Escudo/Bandera Ñublense	
--
-Escudo/Bandera U. La Calera U. La Calera
-Jornada 27 20 Oct.
-Antofagasta Escudo/Bandera Antofagasta	
--
+M 20:30
+Escudo/Bandera Deportes La Serena Deportes La Serena
+Jornada 25 06 - 11 Oct.
+U. Católica Escudo/Bandera U. Católica	
+X 20:30
 Escudo/Bandera U. Española U. Española
 A. Italiano Escudo/Bandera A. Italiano	
--
-Escudo/Bandera Ñublense Ñublense
+S 12:30
+Escudo/Bandera Palestino Palestino
 Everton Viña Escudo/Bandera Everton Viña	
--
+S 15:30
+Escudo/Bandera U. de Chile U. de Chile
+Antofagasta Escudo/Bandera Antofagasta	
+S 18:00
+Escudo/Bandera Melipilla Melipilla
+Colo Colo Escudo/Bandera Colo Colo	
+S 20:30
 Escudo/Bandera Huachipato Huachipato
 Deportes La Serena Escudo/Bandera Deportes La Serena	
--
-Escudo/Bandera Colo Colo Colo Colo
+D 14:00
+Escudo/Bandera Cobresal Cobresal
 O´Higgins Escudo/Bandera O´Higgins	
--
-Escudo/Bandera Melipilla Melipilla
-U. Católica Escudo/Bandera U. Católica	
--
+L 18:00
 Escudo/Bandera Wanderers Wanderers
+Curicó Unido Escudo/Bandera Curicó Unido	
+L 20:30
+Escudo/Bandera Ñublense Ñublense
+Jornada 26 15 - 16 Oct.
+Huachipato Escudo/Bandera Huachipato	
+V 12:30
+Escudo/Bandera Antofagasta Antofagasta
+Palestino Escudo/Bandera Palestino	
+V 16:00
+Escudo/Bandera O´Higgins O´Higgins
 U. de Chile Escudo/Bandera U. de Chile	
--
+V 18:30
+Escudo/Bandera A. Italiano A. Italiano
+Ñublense Escudo/Bandera Ñublense	
+V 21:00
+Escudo/Bandera U. La Calera U. La Calera
+Cobresal Escudo/Bandera Cobresal	
+S 11:00
+Escudo/Bandera U. Católica U. Católica
+Wanderers Escudo/Bandera Wanderers	
+S 15:00
+Escudo/Bandera Everton Viña Everton Viña
+U. Española Escudo/Bandera U. Española	
+S 17:30
+Escudo/Bandera Curicó Unido Curicó Unido
+Melipilla Escudo/Bandera Melipilla	
+S 20:00
+Escudo/Bandera Deportes La Serena Deportes La Serena
+Jornada 27 19 - 21 Oct.
+A. Italiano Escudo/Bandera A. Italiano	
+M 18:30
+Escudo/Bandera Ñublense Ñublense
+O´Higgins Escudo/Bandera O´Higgins	
+M 21:00
+Escudo/Bandera Melipilla Melipilla
+Deportes La Serena Escudo/Bandera Deportes La Serena	
+X 16:00
+Escudo/Bandera Colo Colo Colo Colo
+U. Católica Escudo/Bandera U. Católica	
+X 18:30
+Escudo/Bandera Wanderers Wanderers
+Everton Viña Escudo/Bandera Everton Viña	
+X 21:00
+Escudo/Bandera Huachipato Huachipato
+Antofagasta Escudo/Bandera Antofagasta	
+J 16:00
+Escudo/Bandera U. Española U. Española
+U. de Chile Escudo/Bandera U. de Chile	
+J 18:30
 Escudo/Bandera Palestino Palestino
 U. La Calera Escudo/Bandera U. La Calera	
--
+J 21:00
 Escudo/Bandera Cobresal Cobresal
-Jornada 28 24 Oct.
-Cobresal Escudo/Bandera Cobresal	
--
-Escudo/Bandera O´Higgins O´Higgins
-Colo Colo Escudo/Bandera Colo Colo	
--
-Escudo/Bandera U. Católica U. Católica
-Curicó Unido Escudo/Bandera Curicó Unido	
--
-Escudo/Bandera U. La Calera U. La Calera
-Huachipato Escudo/Bandera Huachipato	
--
-Escudo/Bandera A. Italiano A. Italiano
-Melipilla Escudo/Bandera Melipilla	
--
-Escudo/Bandera U. de Chile U. de Chile
-Palestino Escudo/Bandera Palestino	
--
-Escudo/Bandera Deportes La Serena Deportes La Serena
-Wanderers Escudo/Bandera Wanderers	
--
-Escudo/Bandera Antofagasta Antofagasta
+Jornada 28 23 - 27 Oct.
 Ñublense Escudo/Bandera Ñublense	
--
+S 18:00
 Escudo/Bandera Everton Viña Everton Viña
+Melipilla Escudo/Bandera Melipilla	
+D 12:00
+Escudo/Bandera U. de Chile U. de Chile
+Colo Colo Escudo/Bandera Colo Colo	
+D 16:30
+Escudo/Bandera U. Católica U. Católica
+Huachipato Escudo/Bandera Huachipato	
+D 20:00
+Escudo/Bandera A. Italiano A. Italiano
+Wanderers Escudo/Bandera Wanderers	
+L 12:30
+Escudo/Bandera Antofagasta Antofagasta
+Palestino Escudo/Bandera Palestino	
+L 16:00
+Escudo/Bandera Deportes La Serena Deportes La Serena
+Curicó Unido Escudo/Bandera Curicó Unido	
+L 21:00
+Escudo/Bandera U. La Calera U. La Calera
+Cobresal Escudo/Bandera Cobresal	
+X 11:00
+Escudo/Bandera O´Higgins O´Higgins
 Jornada 29 31 Oct.
-Antofagasta Escudo/Bandera Antofagasta	
--
-Escudo/Bandera Ñublense Ñublense
 A. Italiano Escudo/Bandera A. Italiano	
 -
 Escudo/Bandera Colo Colo Colo Colo
 Deportes La Serena Escudo/Bandera Deportes La Serena	
 -
 Escudo/Bandera Huachipato Huachipato
+U. La Calera Escudo/Bandera U. La Calera	
+-
+Escudo/Bandera Melipilla Melipilla
+Antofagasta Escudo/Bandera Antofagasta	
+-
+Escudo/Bandera Ñublense Ñublense
 O´Higgins Escudo/Bandera O´Higgins	
 -
 Escudo/Bandera U. Católica U. Católica
-Wanderers Escudo/Bandera Wanderers	
--
-Escudo/Bandera Palestino Palestino
 U. de Chile Escudo/Bandera U. de Chile	
 -
 Escudo/Bandera Curicó Unido Curicó Unido
 U. Española Escudo/Bandera U. Española	
 -
 Escudo/Bandera Everton Viña Everton Viña
-U. La Calera Escudo/Bandera U. La Calera	
+Wanderers Escudo/Bandera Wanderers	
 -
-Escudo/Bandera Melipilla Melipilla
+Escudo/Bandera Palestino Palestino
 Jornada 30 03 Nov.
-Colo Colo Escudo/Bandera Colo Colo	
--
-Escudo/Bandera Wanderers Wanderers
-Curicó Unido Escudo/Bandera Curicó Unido	
--
-Escudo/Bandera O´Higgins O´Higgins
-Everton Viña Escudo/Bandera Everton Viña	
--
-Escudo/Bandera A. Italiano A. Italiano
 Huachipato Escudo/Bandera Huachipato	
 -
 Escudo/Bandera U. Española U. Española
-Melipilla Escudo/Bandera Melipilla	
+Colo Colo Escudo/Bandera Colo Colo	
 -
-Escudo/Bandera Cobresal Cobresal
-Palestino Escudo/Bandera Palestino	
--
-Escudo/Bandera U. La Calera U. La Calera
-U. Católica Escudo/Bandera U. Católica	
--
-Escudo/Bandera Antofagasta Antofagasta
+Escudo/Bandera Wanderers Wanderers
 Ñublense Escudo/Bandera Ñublense	
 -
 Escudo/Bandera U. de Chile U. de Chile
+Everton Viña Escudo/Bandera Everton Viña	
+-
+Escudo/Bandera A. Italiano A. Italiano
+Palestino Escudo/Bandera Palestino	
+-
+Escudo/Bandera U. La Calera U. La Calera
+Melipilla Escudo/Bandera Melipilla	
+-
+Escudo/Bandera Cobresal Cobresal
+U. Católica Escudo/Bandera U. Católica	
+-
+Escudo/Bandera Antofagasta Antofagasta
+Curicó Unido Escudo/Bandera Curicó Unido	
+-
+Escudo/Bandera O´Higgins O´Higgins
 Jornada 31 07 Nov.
-Antofagasta Escudo/Bandera Antofagasta	
+Wanderers Escudo/Bandera Wanderers	
 -
-Escudo/Bandera Deportes La Serena Deportes La Serena
-Cobresal Escudo/Bandera Cobresal	
--
-Escudo/Bandera Everton Viña Everton Viña
+Escudo/Bandera Curicó Unido Curicó Unido
 Colo Colo Escudo/Bandera Colo Colo	
 -
 Escudo/Bandera Melipilla Melipilla
 O´Higgins Escudo/Bandera O´Higgins	
 -
 Escudo/Bandera Ñublense Ñublense
-Wanderers Escudo/Bandera Wanderers	
--
-Escudo/Bandera Curicó Unido Curicó Unido
 U. Católica Escudo/Bandera U. Católica	
 -
 Escudo/Bandera U. de Chile U. de Chile
 U. Española Escudo/Bandera U. Española	
 -
 Escudo/Bandera Palestino Palestino
+Antofagasta Escudo/Bandera Antofagasta	
+-
+Escudo/Bandera Deportes La Serena Deportes La Serena
+Cobresal Escudo/Bandera Cobresal	
+-
+Escudo/Bandera Everton Viña Everton Viña
 U. La Calera Escudo/Bandera U. La Calera	
 -
 Escudo/Bandera Huachipato Huachipato
 Jornada 32 14 Nov.
+Huachipato Escudo/Bandera Huachipato	
+-
+Escudo/Bandera Wanderers Wanderers
 A. Italiano Escudo/Bandera A. Italiano	
 -
 Escudo/Bandera Antofagasta Antofagasta
+Ñublense Escudo/Bandera Ñublense	
+-
+Escudo/Bandera U. Española U. Española
+U. de Chile Escudo/Bandera U. de Chile	
+-
+Escudo/Bandera O´Higgins O´Higgins
 Curicó Unido Escudo/Bandera Curicó Unido	
 -
 Escudo/Bandera Colo Colo Colo Colo
 Everton Viña Escudo/Bandera Everton Viña	
 -
 Escudo/Bandera U. La Calera U. La Calera
-Huachipato Escudo/Bandera Huachipato	
--
-Escudo/Bandera Wanderers Wanderers
 Deportes La Serena Escudo/Bandera Deportes La Serena	
 -
 Escudo/Bandera U. Católica U. Católica
 Palestino Escudo/Bandera Palestino	
 -
 Escudo/Bandera Cobresal Cobresal
-U. de Chile Escudo/Bandera U. de Chile	
--
-Escudo/Bandera O´Higgins O´Higgins
-Ñublense Escudo/Bandera Ñublense	
--
-Escudo/Bandera U. Española U. Española
 Jornada 33 28 Nov.
-Cobresal Escudo/Bandera Cobresal	
--
-Escudo/Bandera U. de Chile U. de Chile
-Colo Colo Escudo/Bandera Colo Colo	
--
-Escudo/Bandera U. Española U. Española
-Curicó Unido Escudo/Bandera Curicó Unido	
--
-Escudo/Bandera Palestino Palestino
-Melipilla Escudo/Bandera Melipilla	
--
-Escudo/Bandera Everton Viña Everton Viña
-O´Higgins Escudo/Bandera O´Higgins	
--
-Escudo/Bandera Antofagasta Antofagasta
-Wanderers Escudo/Bandera Wanderers	
--
-Escudo/Bandera A. Italiano A. Italiano
 U. Católica Escudo/Bandera U. Católica	
 -
 Escudo/Bandera Huachipato Huachipato
+O´Higgins Escudo/Bandera O´Higgins	
+-
+Escudo/Bandera Antofagasta Antofagasta
+Curicó Unido Escudo/Bandera Curicó Unido	
+-
+Escudo/Bandera Palestino Palestino
+Colo Colo Escudo/Bandera Colo Colo	
+-
+Escudo/Bandera U. Española U. Española
+Wanderers Escudo/Bandera Wanderers	
+-
+Escudo/Bandera A. Italiano A. Italiano
+Cobresal Escudo/Bandera Cobresal	
+-
+Escudo/Bandera U. de Chile U. de Chile
+Melipilla Escudo/Bandera Melipilla	
+-
+Escudo/Bandera Everton Viña Everton Viña
 U. La Calera Escudo/Bandera U. La Calera	
 -
 Escudo/Bandera Deportes La Serena Deportes La Serena
 Jornada 34 05 Dic.
-Antofagasta Escudo/Bandera Antofagasta	
--
-Escudo/Bandera Colo Colo Colo Colo
-A. Italiano Escudo/Bandera A. Italiano	
--
-Escudo/Bandera Curicó Unido Curicó Unido
-Everton Viña Escudo/Bandera Everton Viña	
--
-Escudo/Bandera U. Católica U. Católica
-Huachipato Escudo/Bandera Huachipato	
--
-Escudo/Bandera Melipilla Melipilla
 Deportes La Serena Escudo/Bandera Deportes La Serena	
 -
 Escudo/Bandera Wanderers Wanderers
+Huachipato Escudo/Bandera Huachipato	
+-
+Escudo/Bandera Melipilla Melipilla
 Palestino Escudo/Bandera Palestino	
 -
 Escudo/Bandera Ñublense Ñublense
 U. de Chile Escudo/Bandera U. de Chile	
 -
 Escudo/Bandera U. La Calera U. La Calera
+A. Italiano Escudo/Bandera A. Italiano	
+-
+Escudo/Bandera Curicó Unido Curicó Unido
+Antofagasta Escudo/Bandera Antofagasta	
+-
+Escudo/Bandera Colo Colo Colo Colo
+Everton Viña Escudo/Bandera Everton Viña	
+-
+Escudo/Bandera U. Católica U. Católica
 U. Española Escudo/Bandera U. Española	
 -
 Escudo/Bandera Cobresal Cobresal

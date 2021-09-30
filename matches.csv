@@ -142,7 +142,7 @@ U. Católica,Ñublense,2,2,True
 Deportes La Serena,A. Italiano,0,2,True
 Wanderers,U. Española,1,2,True
 O´Higgins,Everton Viña,1,0,True
-Cobresal,Huachipato,,,False
+Cobresal,Huachipato,1,1,True
 Palestino,U. Católica,3,0,True
 Ñublense,Melipilla,3,0,True
 Everton Viña,Antofagasta,1,1,True
@@ -162,19 +162,19 @@ Everton Viña,Palestino,1,0,True
 Wanderers,Cobresal,2,1,True
 A. Italiano,U. La Calera,2,3,True
 Curicó Unido,U. Católica,2,4,True
-Ñublense,Huachipato,,,False
-U. Española,U. de Chile,,,False
-Deportes La Serena,O´Higgins,,,False
-Colo Colo,Everton Viña,,,False
-Palestino,Melipilla,,,False
-Huachipato,Palestino,,,False
-U. La Calera,O´Higgins,,,False
-Cobresal,Antofagasta,,,False
-U. Española,Deportes La Serena,,,False
-Melipilla,A. Italiano,,,False
-Everton Viña,Curicó Unido,,,False
-Ñublense,Wanderers,,,False
-U. de Chile,Colo Colo,,,False
+Ñublense,Huachipato,2,2,True
+U. Española,U. de Chile,2,3,True
+Deportes La Serena,O´Higgins,2,0,True
+Colo Colo,Everton Viña,2,0,True
+Palestino,Melipilla,3,1,True
+Huachipato,Palestino,1,1,True
+U. La Calera,O´Higgins,2,0,True
+Cobresal,Antofagasta,2,0,True
+U. Española,Deportes La Serena,2,1,True
+Melipilla,A. Italiano,1,1,True
+Everton Viña,Curicó Unido,0,0,True
+Ñublense,Wanderers,1,2,True
+U. de Chile,Colo Colo,1,3,True
 Deportes La Serena,Everton Viña,,,False
 O´Higgins,Huachipato,,,False
 Wanderers,U. de Chile,,,False
@@ -183,91 +183,91 @@ U. Católica,Melipilla,,,False
 Curicó Unido,Cobresal,,,False
 Colo Colo,Ñublense,,,False
 A. Italiano,U. Española,,,False
-Cobresal,A. Italiano,,,False
-Huachipato,Curicó Unido,,,False
-Melipilla,Wanderers,,,False
+U. La Calera,U. Católica,,,False
 Palestino,Colo Colo,,,False
 U. de Chile,Antofagasta,,,False
 U. Española,O´Higgins,,,False
-U. La Calera,U. Católica,,,False
+Cobresal,A. Italiano,,,False
+Melipilla,Wanderers,,,False
+Huachipato,Curicó Unido,,,False
 Ñublense,Deportes La Serena,,,False
-Antofagasta,Melipilla,,,False
+U. Católica,U. Española,,,False
 A. Italiano,Palestino,,,False
-Colo Colo,Huachipato,,,False
-Curicó Unido,Ñublense,,,False
 Everton Viña,U. de Chile,,,False
+Antofagasta,Melipilla,,,False
+Colo Colo,Huachipato,,,False
 Deportes La Serena,Cobresal,,,False
 O´Higgins,Wanderers,,,False
-U. Católica,U. Española,,,False
-Cobresal,U. Católica,,,False
+Curicó Unido,Ñublense,,,False
 Huachipato,Antofagasta,,,False
-Melipilla,Deportes La Serena,,,False
 Palestino,O´Higgins,,,False
-Wanderers,Everton Viña,,,False
 U. de Chile,A. Italiano,,,False
-U. Española,Curicó Unido,,,False
 Ñublense,U. La Calera,,,False
-Antofagasta,U. Española,,,False
+Cobresal,U. Católica,,,False
+Wanderers,Everton Viña,,,False
+U. Española,Curicó Unido,,,False
+Melipilla,Deportes La Serena,,,False
 A. Italiano,Ñublense,,,False
-Everton Viña,Huachipato,,,False
-Deportes La Serena,Colo Colo,,,False
 O´Higgins,Melipilla,,,False
+Deportes La Serena,Colo Colo,,,False
 U. Católica,Wanderers,,,False
+Everton Viña,Huachipato,,,False
+Antofagasta,U. Española,,,False
 U. de Chile,Palestino,,,False
 U. La Calera,Cobresal,,,False
-Cobresal,O´Higgins,,,False
-Colo Colo,U. Católica,,,False
-Curicó Unido,U. La Calera,,,False
-Huachipato,A. Italiano,,,False
-Melipilla,U. de Chile,,,False
-Palestino,Deportes La Serena,,,False
-Wanderers,Antofagasta,,,False
 Ñublense,Everton Viña,,,False
-Antofagasta,Ñublense,,,False
+Melipilla,U. de Chile,,,False
+Colo Colo,U. Católica,,,False
+Huachipato,A. Italiano,,,False
+Wanderers,Antofagasta,,,False
+Palestino,Deportes La Serena,,,False
+Curicó Unido,U. La Calera,,,False
+Cobresal,O´Higgins,,,False
 A. Italiano,Colo Colo,,,False
 Deportes La Serena,Huachipato,,,False
+U. La Calera,Melipilla,,,False
+Antofagasta,Ñublense,,,False
 O´Higgins,U. Católica,,,False
-Wanderers,Palestino,,,False
 U. de Chile,Curicó Unido,,,False
 U. Española,Everton Viña,,,False
-U. La Calera,Melipilla,,,False
-Colo Colo,Wanderers,,,False
-Curicó Unido,O´Higgins,,,False
-Everton Viña,A. Italiano,,,False
+Wanderers,Palestino,,,False
 Huachipato,U. Española,,,False
-Melipilla,Cobresal,,,False
-Palestino,U. La Calera,,,False
-U. Católica,Antofagasta,,,False
+Colo Colo,Wanderers,,,False
 Ñublense,U. de Chile,,,False
-Antofagasta,Deportes La Serena,,,False
-Cobresal,Everton Viña,,,False
+Everton Viña,A. Italiano,,,False
+Palestino,U. La Calera,,,False
+Melipilla,Cobresal,,,False
+U. Católica,Antofagasta,,,False
+Curicó Unido,O´Higgins,,,False
+Wanderers,Curicó Unido,,,False
 Colo Colo,Melipilla,,,False
 O´Higgins,Ñublense,,,False
-Wanderers,Curicó Unido,,,False
 U. Católica,U. de Chile,,,False
 U. Española,Palestino,,,False
+Antofagasta,Deportes La Serena,,,False
+Cobresal,Everton Viña,,,False
 U. La Calera,Huachipato,,,False
+Huachipato,Wanderers,,,False
 A. Italiano,Antofagasta,,,False
+Ñublense,U. Española,,,False
+U. de Chile,O´Higgins,,,False
 Curicó Unido,Colo Colo,,,False
 Everton Viña,U. La Calera,,,False
-Huachipato,Wanderers,,,False
 Deportes La Serena,U. Católica,,,False
 Palestino,Cobresal,,,False
-U. de Chile,O´Higgins,,,False
-Ñublense,U. Española,,,False
-Cobresal,U. de Chile,,,False
-Colo Colo,U. Española,,,False
-Curicó Unido,Palestino,,,False
-Melipilla,Everton Viña,,,False
-O´Higgins,Antofagasta,,,False
-Wanderers,A. Italiano,,,False
 U. Católica,Huachipato,,,False
+O´Higgins,Antofagasta,,,False
+Curicó Unido,Palestino,,,False
+Colo Colo,U. Española,,,False
+Wanderers,A. Italiano,,,False
+Cobresal,U. de Chile,,,False
+Melipilla,Everton Viña,,,False
 U. La Calera,Deportes La Serena,,,False
-Antofagasta,Colo Colo,,,False
-A. Italiano,Curicó Unido,,,False
-Everton Viña,U. Católica,,,False
-Huachipato,Melipilla,,,False
 Deportes La Serena,Wanderers,,,False
+Huachipato,Melipilla,,,False
 Palestino,Ñublense,,,False
 U. de Chile,U. La Calera,,,False
+A. Italiano,Curicó Unido,,,False
+Antofagasta,Colo Colo,,,False
+Everton Viña,U. Católica,,,False
 U. Española,Cobresal,,,False

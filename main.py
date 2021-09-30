@@ -26,7 +26,7 @@ if TOURNAMENT == "Eliminatorias":
     ]
 if TOURNAMENT == "Chile":
     BARS_COLORS_THRESHOLDS = [
-        {"max_threshold": 16, "color": "indianred", "label": "Descenso directo"},
+        {"max_threshold": 17, "color": "indianred", "label": "Descenso directo"},
         {"max_threshold": 15, "color": "lightcoral", "label": "Partido por el descenso"},
         {"max_threshold": 14, "color": "silver", "label": ""},
         {"max_threshold": 7, "color": "dodgerblue", "label": "Sudamericana"},
