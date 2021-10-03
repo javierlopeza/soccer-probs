@@ -571,11 +571,11 @@ Colo Colo Escudo/Bandera Colo Colo
 0 - 1
 Escudo/Bandera Ñublense Ñublense
 A. Italiano Escudo/Bandera A. Italiano	
-J 21:00
+2 - 0
 Escudo/Bandera U. Española U. Española
 Jornada 24 02 - 05 Oct.
 U. La Calera Escudo/Bandera U. La Calera	
-S 20:30
+0 - 2
 Escudo/Bandera U. Católica U. Católica
 Palestino Escudo/Bandera Palestino	
 D 15:30
