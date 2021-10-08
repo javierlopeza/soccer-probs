@@ -1,273 +1,91 @@
 Home,Away,GoalsHome,GoalsAway,Played
-Curicó Unido,Melipilla,2,0,True
-Everton Viña,O´Higgins,1,1,True
-Colo Colo,U. La Calera,0,0,True
-U. Española,Wanderers,3,1,True
-Palestino,Antofagasta,2,4,True
-Huachipato,Cobresal,0,0,True
-Ñublense,U. Católica,0,1,True
-A. Italiano,Deportes La Serena,2,1,True
-Antofagasta,Everton Viña,1,2,True
-U. La Calera,U. Española,1,0,True
-Melipilla,Ñublense,1,1,True
-U. de Chile,Huachipato,1,1,True
-Cobresal,Colo Colo,1,2,True
-Deportes La Serena,Curicó Unido,2,0,True
-U. Católica,Palestino,2,1,True
-O´Higgins,A. Italiano,0,0,True
-U. Española,Melipilla,0,2,True
-A. Italiano,U. Católica,1,0,True
-Deportes La Serena,U. de Chile,0,0,True
-Wanderers,U. La Calera,1,2,True
-Colo Colo,O´Higgins,1,2,True
-Ñublense,Cobresal,3,1,True
-Palestino,Everton Viña,1,1,True
-Curicó Unido,Antofagasta,1,1,True
-Melipilla,Palestino,0,1,True
-Huachipato,Ñublense,5,3,True
-U. Católica,Curicó Unido,2,1,True
-O´Higgins,Deportes La Serena,0,0,True
-U. La Calera,A. Italiano,1,1,True
-Cobresal,Wanderers,2,1,True
-Everton Viña,Colo Colo,0,2,True
-U. de Chile,U. Española,2,1,True
-Curicó Unido,Everton Viña,1,1,True
-Antofagasta,Cobresal,2,1,True
-Deportes La Serena,U. Española,0,0,True
-O´Higgins,U. La Calera,1,0,True
-Wanderers,Ñublense,1,2,True
-Colo Colo,U. de Chile,1,0,True
-A. Italiano,Melipilla,1,0,True
-Palestino,Huachipato,2,0,True
-Everton Viña,Deportes La Serena,0,4,True
-U. La Calera,Antofagasta,2,1,True
-U. Española,A. Italiano,1,1,True
-Ñublense,Colo Colo,5,1,True
-Cobresal,Curicó Unido,2,0,True
-Huachipato,O´Higgins,0,1,True
-Melipilla,U. Católica,2,0,True
-U. de Chile,Wanderers,1,0,True
-O´Higgins,U. Española,1,4,True
-U. Católica,U. La Calera,3,0,True
-Deportes La Serena,Ñublense,1,0,True
-Wanderers,Melipilla,0,3,True
-Colo Colo,Palestino,1,2,True
-Curicó Unido,Huachipato,2,2,True
-Antofagasta,U. de Chile,1,2,True
-A. Italiano,Cobresal,0,0,True
-Cobresal,Deportes La Serena,2,0,True
-Ñublense,Curicó Unido,2,0,True
-Wanderers,O´Higgins,0,0,True
-U. Española,U. Católica,3,2,True
-Melipilla,Antofagasta,1,1,True
-Huachipato,Colo Colo,0,2,True
-U. de Chile,Everton Viña,0,1,True
-Palestino,A. Italiano,0,2,True
-Curicó Unido,U. Española,1,2,True
-Deportes La Serena,Melipilla,5,1,True
-O´Higgins,Palestino,1,0,True
-Everton Viña,Wanderers,1,0,True
-U. Católica,Cobresal,2,1,True
-Antofagasta,Huachipato,1,0,True
-U. La Calera,Ñublense,1,0,True
-A. Italiano,U. de Chile,2,1,True
-Cobresal,U. La Calera,0,1,True
-Wanderers,U. Católica,0,1,True
-Palestino,U. de Chile,0,0,True
-Huachipato,Everton Viña,0,0,True
-U. Española,Antofagasta,1,1,True
-Colo Colo,Deportes La Serena,2,0,True
-Melipilla,O´Higgins,3,1,True
-Ñublense,A. Italiano,1,0,True
-O´Higgins,Cobresal,1,1,True
-Antofagasta,Wanderers,1,0,True
-U. La Calera,Curicó Unido,1,0,True
-U. Católica,Colo Colo,0,0,True
-A. Italiano,Huachipato,3,3,True
-Everton Viña,Ñublense,0,0,True
-Deportes La Serena,Palestino,4,3,True
-U. de Chile,Melipilla,2,0,True
-Everton Viña,U. Española,2,0,True
-Ñublense,Antofagasta,0,0,True
-Melipilla,U. La Calera,3,3,True
-Colo Colo,A. Italiano,1,1,True
-Huachipato,Deportes La Serena,0,0,True
-Palestino,Wanderers,2,0,True
-Curicó Unido,U. de Chile,1,2,True
-U. Católica,O´Higgins,3,0,True
-A. Italiano,Everton Viña,0,2,True
-Cobresal,Melipilla,1,1,True
-U. Española,Huachipato,3,1,True
-O´Higgins,Curicó Unido,2,2,True
-U. La Calera,Palestino,2,1,True
-Antofagasta,U. Católica,3,2,True
-Wanderers,Colo Colo,0,4,True
-U. de Chile,Ñublense,1,1,True
-Huachipato,U. La Calera,0,0,True
-Palestino,U. Española,3,2,True
-U. de Chile,U. Católica,2,1,True
-Melipilla,Colo Colo,2,4,True
-Deportes La Serena,Antofagasta,1,1,True
-Ñublense,O´Higgins,0,0,True
-Curicó Unido,Wanderers,2,1,True
-Everton Viña,Cobresal,3,0,True
-O´Higgins,U. de Chile,1,3,True
-U. Española,Ñublense,3,2,True
-U. Católica,Deportes La Serena,4,3,True
-Wanderers,Huachipato,1,4,True
-Antofagasta,A. Italiano,0,1,True
-Colo Colo,Curicó Unido,2,0,True
-U. La Calera,Everton Viña,1,0,True
-Cobresal,Palestino,3,1,True
-A. Italiano,Wanderers,1,0,True
-Antofagasta,O´Higgins,2,1,True
-Deportes La Serena,U. La Calera,1,2,True
-U. Española,Colo Colo,0,1,True
-Everton Viña,Melipilla,1,2,True
-Palestino,Curicó Unido,0,2,True
-U. de Chile,Cobresal,0,2,True
-Huachipato,U. Católica,2,1,True
-Wanderers,Deportes La Serena,2,2,True
-Ñublense,Palestino,2,2,True
-Colo Colo,Antofagasta,2,0,True
-Curicó Unido,A. Italiano,2,2,True
-Cobresal,U. Española,2,0,True
-Melipilla,Huachipato,1,2,True
-U. La Calera,U. de Chile,1,4,True
-U. Católica,Everton Viña,2,0,True
-Melipilla,Curicó Unido,1,1,True
-Antofagasta,Palestino,2,1,True
-U. La Calera,Colo Colo,1,1,True
-U. Católica,Ñublense,2,2,True
-Deportes La Serena,A. Italiano,0,2,True
-Wanderers,U. Española,1,2,True
-O´Higgins,Everton Viña,1,0,True
-Cobresal,Huachipato,1,1,True
-Palestino,U. Católica,3,0,True
-Ñublense,Melipilla,3,0,True
-Everton Viña,Antofagasta,1,1,True
-Huachipato,U. de Chile,1,1,True
-Colo Colo,Cobresal,0,1,True
-U. Española,U. La Calera,2,1,True
-A. Italiano,O´Higgins,1,0,True
-Curicó Unido,Deportes La Serena,2,0,True
-Cobresal,Ñublense,4,1,True
-U. de Chile,Deportes La Serena,1,1,True
-Melipilla,U. Española,0,3,True
-Antofagasta,Curicó Unido,1,1,True
-U. Católica,A. Italiano,3,1,True
-U. La Calera,Wanderers,0,1,True
-O´Higgins,Colo Colo,2,3,True
-Everton Viña,Palestino,1,0,True
-Wanderers,Cobresal,2,1,True
-A. Italiano,U. La Calera,2,3,True
-Curicó Unido,U. Católica,2,4,True
-Ñublense,Huachipato,2,2,True
-U. Española,U. de Chile,2,3,True
-Deportes La Serena,O´Higgins,2,0,True
-Colo Colo,Everton Viña,2,0,True
-Palestino,Melipilla,3,1,True
-Huachipato,Palestino,1,1,True
-U. La Calera,O´Higgins,2,0,True
-Cobresal,Antofagasta,2,0,True
-U. Española,Deportes La Serena,2,1,True
-Melipilla,A. Italiano,1,1,True
-Everton Viña,Curicó Unido,0,0,True
-Ñublense,Wanderers,1,2,True
-U. de Chile,Colo Colo,1,3,True
-Deportes La Serena,Everton Viña,0,2,True
-O´Higgins,Huachipato,2,0,True
-Wanderers,U. de Chile,2,1,True
-Antofagasta,U. La Calera,1,3,True
-U. Católica,Melipilla,4,0,True
-Curicó Unido,Cobresal,1,0,True
-Colo Colo,Ñublense,0,1,True
-A. Italiano,U. Española,2,0,True
-U. La Calera,U. Católica,0,2,True
-Palestino,Colo Colo,,,False
-U. de Chile,Antofagasta,,,False
-U. Española,O´Higgins,,,False
-Cobresal,A. Italiano,,,False
-Melipilla,Wanderers,,,False
-Huachipato,Curicó Unido,,,False
-Ñublense,Deportes La Serena,,,False
-U. Católica,U. Española,,,False
-A. Italiano,Palestino,,,False
-Everton Viña,U. de Chile,,,False
-Antofagasta,Melipilla,,,False
-Colo Colo,Huachipato,,,False
-Deportes La Serena,Cobresal,,,False
-O´Higgins,Wanderers,,,False
-Curicó Unido,Ñublense,,,False
-Huachipato,Antofagasta,,,False
-Palestino,O´Higgins,,,False
-U. de Chile,A. Italiano,,,False
-Ñublense,U. La Calera,,,False
-Cobresal,U. Católica,,,False
-Wanderers,Everton Viña,,,False
-U. Española,Curicó Unido,,,False
-Melipilla,Deportes La Serena,,,False
-A. Italiano,Ñublense,,,False
-O´Higgins,Melipilla,,,False
-Deportes La Serena,Colo Colo,,,False
-U. Católica,Wanderers,,,False
-Everton Viña,Huachipato,,,False
-Antofagasta,U. Española,,,False
-U. de Chile,Palestino,,,False
-U. La Calera,Cobresal,,,False
-Ñublense,Everton Viña,,,False
-Melipilla,U. de Chile,,,False
-Colo Colo,U. Católica,,,False
-Huachipato,A. Italiano,,,False
-Wanderers,Antofagasta,,,False
-Palestino,Deportes La Serena,,,False
-Curicó Unido,U. La Calera,,,False
-Cobresal,O´Higgins,,,False
-Antofagasta,Ñublense,,,False
-Deportes La Serena,Huachipato,,,False
-Wanderers,Palestino,,,False
-A. Italiano,Colo Colo,,,False
-O´Higgins,U. Católica,,,False
-U. de Chile,Curicó Unido,,,False
-U. Española,Everton Viña,,,False
-U. La Calera,Melipilla,,,False
-Ñublense,U. de Chile,,,False
-Colo Colo,Wanderers,,,False
-U. Católica,Antofagasta,,,False
-Everton Viña,A. Italiano,,,False
-Curicó Unido,O´Higgins,,,False
-Huachipato,U. Española,,,False
-Melipilla,Cobresal,,,False
-Palestino,U. La Calera,,,False
-Cobresal,Everton Viña,,,False
-Antofagasta,Deportes La Serena,,,False
-O´Higgins,Ñublense,,,False
-U. La Calera,Huachipato,,,False
-Wanderers,Curicó Unido,,,False
-U. Española,Palestino,,,False
-Colo Colo,Melipilla,,,False
-U. Católica,U. de Chile,,,False
-Curicó Unido,Colo Colo,,,False
-Huachipato,Wanderers,,,False
-Deportes La Serena,U. Católica,,,False
-A. Italiano,Antofagasta,,,False
-Ñublense,U. Española,,,False
-Everton Viña,U. La Calera,,,False
-Palestino,Cobresal,,,False
-U. de Chile,O´Higgins,,,False
-O´Higgins,Antofagasta,,,False
-U. La Calera,Deportes La Serena,,,False
-Curicó Unido,Palestino,,,False
-U. Católica,Huachipato,,,False
-Colo Colo,U. Española,,,False
-Wanderers,A. Italiano,,,False
-Cobresal,U. de Chile,,,False
-Melipilla,Everton Viña,,,False
-U. Española,Cobresal,,,False
-Palestino,Ñublense,,,False
-A. Italiano,Curicó Unido,,,False
-Everton Viña,U. Católica,,,False
-Antofagasta,Colo Colo,,,False
-U. de Chile,U. La Calera,,,False
-Huachipato,Melipilla,,,False
-Deportes La Serena,Wanderers,,,False
+Paraguay,Perú,2,2,True
+Uruguay,Chile,2,1,True
+Argentina,Ecuador,1,0,True
+Colombia,Venezuela,3,0,True
+Brasil,Bolivia,5,0,True
+Bolivia,Argentina,1,2,True
+Ecuador,Uruguay,4,2,True
+Venezuela,Paraguay,0,1,True
+Perú,Brasil,2,4,True
+Chile,Colombia,2,2,True
+Bolivia,Ecuador,2,3,True
+Argentina,Paraguay,1,1,True
+Colombia,Uruguay,0,3,True
+Chile,Perú,2,0,True
+Brasil,Venezuela,1,0,True
+Ecuador,Colombia,6,1,True
+Venezuela,Chile,2,1,True
+Paraguay,Bolivia,2,2,True
+Uruguay,Brasil,0,2,True
+Perú,Argentina,0,2,True
+Bolivia,Perú,,,False
+Venezuela,Ecuador,,,False
+Colombia,Brasil,,,False
+Argentina,Uruguay,,,False
+Chile,Paraguay,,,False
+Brasil,Argentina,,,False
+Ecuador,Chile,0,0,True
+Paraguay,Colombia,1,1,True
+Uruguay,Bolivia,4,2,True
+Perú,Venezuela,1,0,True
+Bolivia,Venezuela,3,1,True
+Uruguay,Paraguay,0,0,True
+Argentina,Chile,1,1,True
+Perú,Colombia,0,3,True
+Brasil,Ecuador,2,0,True
+Ecuador,Perú,1,2,True
+Venezuela,Uruguay,0,0,True
+Colombia,Argentina,2,2,True
+Paraguay,Brasil,0,2,True
+Chile,Bolivia,1,1,True
+Bolivia,Colombia,1,1,True
+Ecuador,Paraguay,2,0,True
+Venezuela,Argentina,1,3,True
+Chile,Brasil,0,1,True
+Perú,Uruguay,1,1,True
+Uruguay,Ecuador,1,0,True
+Paraguay,Venezuela,2,1,True
+Colombia,Chile,3,1,True
+Argentina,Bolivia,3,0,True
+Brasil,Perú,2,0,True
+Paraguay,Argentina,0,0,True
+Uruguay,Colombia,0,0,True
+Venezuela,Brasil,1,3,True
+Ecuador,Bolivia,3,0,True
+Perú,Chile,2,0,True
+Bolivia,Paraguay,,,False
+Colombia,Ecuador,,,False
+Argentina,Perú,,,False
+Chile,Venezuela,,,False
+Brasil,Uruguay,,,False
+Uruguay,Argentina,,,False
+Perú,Bolivia,,,False
+Brasil,Colombia,,,False
+Paraguay,Chile,,,False
+Ecuador,Venezuela,,,False
+Colombia,Paraguay,,,False
+Venezuela,Perú,,,False
+Bolivia,Uruguay,,,False
+Argentina,Brasil,,,False
+Chile,Ecuador,,,False
+Colombia,Perú,,,False
+Venezuela,Bolivia,,,False
+Paraguay,Uruguay,,,False
+Chile,Argentina,,,False
+Ecuador,Brasil,,,False
+Uruguay,Venezuela,,,False
+Perú,Ecuador,,,False
+Brasil,Paraguay,,,False
+Bolivia,Chile,,,False
+Argentina,Colombia,,,False
+Uruguay,Perú,,,False
+Colombia,Bolivia,,,False
+Brasil,Chile,,,False
+Paraguay,Ecuador,,,False
+Argentina,Venezuela,,,False
+Perú,Paraguay,,,False
+Venezuela,Colombia,,,False
+Bolivia,Brasil,,,False
+Chile,Uruguay,,,False
+Ecuador,Argentina,,,False

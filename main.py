@@ -1,8 +1,8 @@
 import pandas as pd
 from soccer_utils import * 
 
-N_SIM = 1000
-TOURNAMENT = "Chile" # Eliminatorias | Chile
+N_SIM = 10000
+TOURNAMENT = "Eliminatorias" # Eliminatorias | Chile
 
 # -------------------
 # RAW MATCHES SOURCES
